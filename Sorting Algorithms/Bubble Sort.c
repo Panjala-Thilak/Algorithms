@@ -1,4 +1,4 @@
-//Bubble Sort
+//Bubble Sort ALgorithm
 #include<stdio.h>
 void bubble(int a[],int n)
 {
