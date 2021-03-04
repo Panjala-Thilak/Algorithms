@@ -1,4 +1,5 @@
 //Bubble Sort ALgorithm
+//Time Complexity is o(n^2)
 #include<stdio.h>
 void bubble(int a[],int n)
 {
